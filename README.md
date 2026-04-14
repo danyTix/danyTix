@@ -2,17 +2,14 @@
 <h3 align="center">Flutter Developer • Mobile Builder • Clean Architecture Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/danyTix">
     <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=for-the-badge" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Mobile%20Apps-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Projects badge" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/dany-tixador-0b13b5102/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+  <a href="https://www.malt.fr/profile/danytixador">
+    <img src="https://img.shields.io/badge/malt-fc5757?style=for-the-badge&logo=malt&logoColor=white" alt="Malt badge" />
   </a>
 </p>
 
