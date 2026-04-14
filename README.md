@@ -2,9 +2,7 @@
 <h3 align="center">Flutter Developer • Mobile Builder • Clean Architecture Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/danyTix">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=for-the-badge" alt="GitHub followers" />
-  </a>
+  
   <a href="https://www.linkedin.com/in/dany-tixador-0b13b5102/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
